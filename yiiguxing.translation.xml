@@ -1,0 +1,31 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Reqest NEW,Request Send Mail,Request complete" />
+      <item value="Positive, negative;" />
+      <item value="postgresql" />
+      <item value="compatibility" />
+      <item value="instantiates" />
+      <item value="indicates" />
+      <item value="determine" />
+      <item value="This class should not be inherited, but used as a composition instead" />
+      <item value="Dublin" />
+      <item value="Boulder" />
+      <item value="convenience" />
+      <item value="resume" />
+      <item value="truncate" />
+      <item value="Offering" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHICHEWA" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
