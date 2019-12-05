@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/mapstruct/mapstruct-examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Vanco/SequencePlugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/ww" />
