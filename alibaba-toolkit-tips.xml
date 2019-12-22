@@ -1,0 +1,8 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/ww/cbn-service" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/ww/esw-bot" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/ww/jbot" firstStartUp="false" />
+  </component>
+</application>
