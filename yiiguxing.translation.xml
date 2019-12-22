@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sample Slash Command Handler." />
       <item value="Finds a resource with a given name. The rules for searching resources * associated with a given class are implemented by the defining * {@linkplain ClassLoader class loader} of the class. This method * delegates to this object's class loader. If this object was loaded by * the bootstrap class loader, the method delegates to {@link * ClassLoader#getSystemResource}. * * &lt;p&gt; Before delegation, an absolute resource name is constructed from the * given resource name using this algorithm:" />
       <item value="Reqest NEW,Request Send Mail,Request complete" />
       <item value="Positive, negative;" />
