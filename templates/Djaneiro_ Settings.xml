@@ -1,0 +1,6 @@
+<templateSet group="Djaneiro: Settings">
+  <template name="sshort_date_format" value="SHORT_DATE_FORMAT = '$VAR1$' $END$" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;m/d/Y&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
