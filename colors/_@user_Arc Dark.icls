@@ -4,7 +4,7 @@
     <property name="created">2019-04-25T10:35:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2020-01-02T15:24:52</property>
+    <property name="modified">2020-01-03T11:14:46</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2285,7 +2285,7 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="47bc9b" />
