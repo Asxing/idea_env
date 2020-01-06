@@ -14,8 +14,10 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="WRAP_LONG_LINES" value="true" />
-    <option name="WRAP_ON_TYPING" value="1" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
