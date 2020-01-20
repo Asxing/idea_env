@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid element" />
       <item value="that should be called to build the application defintions. * @throws AppDefException -" />
       <item value="This allows an application * to truely customize the way the RAM handles their application." />
       <item value="Sample Slash Command Handler." />
