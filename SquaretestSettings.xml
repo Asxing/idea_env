@@ -1,5 +1,40 @@
 <application>
   <component name="SquaretestSettings">
+    <option name="usageStatsEnabled" value="true" />
+    <option name="projectNameToSettingsMap">
+      <map>
+        <entry key="ecc-demo">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="ecc-demo" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit5Mockito.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit5Mockito.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="ecc-demo_ecc-demo.main">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="ecc-demo.main" />
+              <option name="testDirectoryRoot" value="src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="collectUsageStats" value="true" />
+    <option name="hasShownMetricsDisclosure" value="true" />
     <option name="id" value="632753f6-0f15-4c26-bba9-a33b01e4c0ea" />
   </component>
 </application>
