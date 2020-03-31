@@ -94,9 +94,17 @@
           <option name="url" value="https://github.com/HoldDie/awesome-bdd.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.ibm.com/Entitled-Software-LicenseConfigurator/danube-test-repo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:Entitled-Software-LicenseConfigurator/danube-test-repo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/SynologyDrive/ww" />
+    <option name="cloneParentDir" value="$USER_HOME$/ww" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
