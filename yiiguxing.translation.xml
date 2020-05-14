@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="split" />
       <item value="SLACK BOT USER AUTH ACCESS TOKEN" />
       <item value="Invalid element" />
       <item value="that should be called to build the application defintions. * @throws AppDefException -" />
@@ -25,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="CHICHEWA" value="1" />
       </map>
