@@ -8,12 +8,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/SynologyDrive/ww/awesome-quarkus/build.gradle" timestamp="1591059265333">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-      </file>
+      <file name="$USER_HOME$/SynologyDrive/ww/awesome-quarkus/build.gradle" timestamp="1591060430896" />
     </filemarks>
     <jumps />
   </component>
