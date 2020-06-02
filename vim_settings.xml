@@ -11,6 +11,9 @@
       <file name="/Dummy.txt" timestamp="1591082182686">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/pom.xml" timestamp="1591093282815">
+        <mark key="[" line="42" column="53" />
+      </file>
       <file name="$USER_HOME$/ww/ramcontroller/gradle.properties" timestamp="1591084013592">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="1" column="0" />
@@ -21,7 +24,7 @@
         <mark key="]" line="35" column="53" />
         <mark key="." line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/ww/awesome-quarkus/build.gradle" timestamp="1591060430896" />
+      <file name="$USER_HOME$/SynologyDrive/ww/quarkus/extensions/kafka-client/deployment/src/main/java/io/quarkus/kafka/client/deployment/KafkaProcessor.java" timestamp="1591092942889" />
     </filemarks>
     <jumps />
   </component>
