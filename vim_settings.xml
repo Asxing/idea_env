@@ -7,8 +7,25 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/SynologyDrive/ww/awesome-quarkus/build.gradle" timestamp="1591059265333">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+      </file>
+    </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>io.quarkus:quarkus-resteasy</text>
+      </register>
+      <register name="-" type="4">
+        <text>io.quarkus:quarkus-resteasy</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
