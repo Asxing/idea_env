@@ -8,7 +8,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroResource.java" timestamp="1591147584491" />
+      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroResource.java" timestamp="1591147743356">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="46" column="13" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591082182686">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,10 +40,10 @@
         <text encoding="base64">LXZpbGxhaW48L21vZHVsZT4KICAgICAgICA8bW9kdWxlPnN1cGVyLWhlcm9lcy91aS1zdXBlci1oZXJvZXM8L21vZHVsZQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LXZpbGxhaW48L21vZHVsZT4KICAgICAgICA8bW9kdWxlPnN1cGVyLWhlcm9lcy91aS1zdXBlci1oZXJvZXM8L21vZHVsZQ==</text>
+        <text>G</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>G</text>
       </register>
     </registers>
   </component>
