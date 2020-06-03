@@ -8,11 +8,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroResource.java" timestamp="1591147584491" />
       <file name="/Dummy.txt" timestamp="1591082182686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/pom.xml" timestamp="1591093282815">
-        <mark key="[" line="42" column="53" />
+      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/pom.xml" timestamp="1591146185790">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="52" />
+        <mark key="." line="44" column="34" />
       </file>
       <file name="$USER_HOME$/ww/ramcontroller/gradle.properties" timestamp="1591084013592">
         <mark key="[" line="0" column="46" />
@@ -24,14 +27,16 @@
         <mark key="]" line="35" column="53" />
         <mark key="." line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/ww/quarkus/extensions/kafka-client/deployment/src/main/java/io/quarkus/kafka/client/deployment/KafkaProcessor.java" timestamp="1591092942889" />
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="4">
+        <text encoding="base64">LXZpbGxhaW48L21vZHVsZT4KICAgICAgICA8bW9kdWxlPnN1cGVyLWhlcm9lcy91aS1zdXBlci1oZXJvZXM8L21vZHVsZQ==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">LXZpbGxhaW48L21vZHVsZT4KICAgICAgICA8bW9kdWxlPnN1cGVyLWhlcm9lcy91aS1zdXBlci1oZXJvZXM8L21vZHVsZQ==</text>
       </register>
       <register name="-" type="4">
         <text />
