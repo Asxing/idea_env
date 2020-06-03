@@ -8,7 +8,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroResource.java" timestamp="1591147743356">
+      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroResource.java" timestamp="1591163439647">
         <mark key="[" line="46" column="13" />
         <mark key="]" line="46" column="13" />
         <mark key="." line="46" column="13" />
@@ -22,11 +22,14 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="0" column="46" />
       </file>
+      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/resources/application.properties" timestamp="1591163194981" />
       <file name="$USER_HOME$/ww/ramcontroller/build.gradle" timestamp="1591084667165">
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="53" />
         <mark key="." line="35" column="26" />
       </file>
+      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/kubernetes/config-villain.yaml" timestamp="1591163061681" />
+      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/docker/Dockerfile.jvm" timestamp="1591163461723" />
     </filemarks>
     <jumps />
   </component>
