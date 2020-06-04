@@ -13,8 +13,10 @@
         <mark key="]" line="46" column="13" />
         <mark key="." line="46" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591164980940">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1591237577314">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/ww/ramcontroller/gradle.properties" timestamp="1591084013592">
         <mark key="[" line="0" column="46" />
@@ -29,9 +31,6 @@
       <file name="/fragment.java" timestamp="1591164980955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ww/ramcontroller/src/main/resources/config/application.properties" timestamp="1591237498887">
-        <mark key="[" line="8" column="15" />
-      </file>
     </filemarks>
     <jumps />
   </component>
@@ -43,8 +42,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gZ2V0TG1mc0FwcHJvdmVSZXF1ZXN0cygKICAgICAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aGVudGljYXRpb24sCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gZ2V0TG1mc0FwcHJvdmVSZXF1ZXN0cygKICAgICAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aGVudGljYXRpb24sCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHJlbW92ZSBjc3JmIGNvbmZpZw==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
@@ -71,7 +70,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text encoding="base64">IHJlbW92ZSBjc3JmIGNvbmZpZw==</text>
       </register>
     </registers>
   </component>
