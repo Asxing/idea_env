@@ -29,6 +29,13 @@
       <file name="/fragment.js" timestamp="1591335663651">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" timestamp="1591343499582">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="83" />
+        <mark key="]" line="59" column="41" />
+        <mark key="." line="59" column="41" />
+        <mark key="^" line="14" column="48" />
+      </file>
       <file name="$USER_HOME$/ww/ramcontroller/build.gradle" timestamp="1591084667165">
         <mark key="[" line="35" column="28" />
         <mark key="]" line="35" column="53" />
@@ -79,6 +86,8 @@
       <jump line="26" column="20" filename="$USER_HOME$/ww/ramui/ramui/src/app/service/lmfs/profile-list.ts" />
       <jump line="68" column="0" filename="$USER_HOME$/ww/ramui/ramui/src/app/service/lmfs/profile-list.ts" />
       <jump line="64" column="20" filename="$USER_HOME$/ww/ramui/ramui/src/app/service/lmfs/profile-list.ts" />
+      <jump line="14" column="11" filename="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -87,37 +96,37 @@
         <text encoding="base64">LXZpbGxhaW48L21vZHVsZT4KICAgICAgICA8bW9kdWxlPnN1cGVyLWhlcm9lcy91aS1zdXBlci1oZXJvZXM8L21vZHVsZQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gZ2V0TG1mc0FwcHJvdmVSZXF1ZXN0cygKICAgICAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aGVudGljYXRpb24sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gZ2V0TG1mc0FwcHJvdmVSZXF1ZXN0cygKICAgICAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aGVudGljYXRpb24sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYml6UmVzcG9uc2U7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxtZnNSZXF1ZXN0U2VydmljZS5nZXRMTUZTUHJvY2Vzc1JlcXVlc3RzKHNpZ25JZCwgcGFnZUxpbWl0KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gYml6UmVzcG9uc2UgPQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFBhdGhWYXJpYWJsZShuYW1lID0gInNpZ25JZCIpIFN0cmluZyBzaWduSWQsIGludCBwYWdlTGltaXQpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXI6c3JjL21haW4vamF2YS9jb20vaWJtL2Vzdy9yYW1jb250cm9sbGVyL3Jlc3QvbG1mcy9MTUZTUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYml6UmVzcG9uc2U7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxtZnNSZXF1ZXN0U2VydmljZS5nZXRMTUZTUHJvY2Vzc1JlcXVlc3RzKHNpZ25JZCwgcGFnZUxpbWl0KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gYml6UmVzcG9uc2UgPQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQFBhdGhWYXJpYWJsZShuYW1lID0gInNpZ25JZCIpIFN0cmluZyBzaWduSWQsIGludCBwYWdlTGltaXQpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXI6c3JjL21haW4vamF2YS9jb20vaWJtL2Vzdy9yYW1jb250cm9sbGVyL3Jlc3QvbG1mcy9MTUZTUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
+      </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>.</text>
       </register>
     </registers>
   </component>
