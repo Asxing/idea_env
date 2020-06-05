@@ -2,6 +2,14 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>/</entry>
+        <entry>?</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts />
   </component>
@@ -13,15 +21,12 @@
         <mark key="]" line="46" column="13" />
         <mark key="." line="46" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591237577314">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1591335015951">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ww/ramcontroller/gradle.properties" timestamp="1591084013592">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="0" column="46" />
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.ts" timestamp="1591335673213" />
+      <file name="/fragment.js" timestamp="1591335663651">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ww/ramcontroller/build.gradle" timestamp="1591084667165">
         <mark key="[" line="35" column="28" />
@@ -39,11 +44,34 @@
         <mark key="^" line="19" column="95" />
         <mark key="." line="19" column="94" />
       </file>
+      <file name="/" timestamp="1591335564061">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ww/ramcontroller/gradle.properties" timestamp="1591084013592">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="0" column="46" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1591335561102">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1591164980955">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/service/lmfs/profile-list.ts" timestamp="1591337333328">
+        <mark key="'" line="64" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="40" column="13" />
+        <mark key="." line="70" column="0" />
+        <mark key="n" line="25" column="18" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="26" column="20" filename="$USER_HOME$/ww/ramui/ramui/src/app/service/lmfs/profile-list.ts" />
+      <jump line="68" column="0" filename="$USER_HOME$/ww/ramui/ramui/src/app/service/lmfs/profile-list.ts" />
+      <jump line="64" column="20" filename="$USER_HOME$/ww/ramui/ramui/src/app/service/lmfs/profile-list.ts" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
@@ -54,7 +82,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gZ2V0TG1mc0FwcHJvdmVSZXF1ZXN0cygKICAgICAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aGVudGljYXRpb24sCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBTY29yZShTdHJpbmcgbmFtZSwgaW50IHNjb3JlKQ==</text>
+        <text>T</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
@@ -81,13 +109,13 @@
         <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBTY29yZShTdHJpbmcgbmFtZSwgaW50IHNjb3JlKQ==</text>
+        <text>T</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
