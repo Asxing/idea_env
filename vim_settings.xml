@@ -21,8 +21,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.ts" timestamp="1591335673213" />
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/lmfs-roles-detail/lmfs-roles-detail.component.html" timestamp="1591338475642" />
       <file name="/fragment.js" timestamp="1591335663651">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,14 +39,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/process-list.component.html" timestamp="1591346674973" />
-      <file name="/profile-list.ts" timestamp="1591341174456" />
-      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591258285920">
-        <mark key="[" line="19" column="94" />
-        <mark key="]" line="19" column="95" />
-        <mark key="^" line="19" column="95" />
-        <mark key="." line="19" column="94" />
-      </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.html" timestamp="1591347069385">
         <mark key="[" line="126" column="53" />
         <mark key="]" line="126" column="54" />
@@ -60,14 +50,20 @@
         <mark key="]" line="98" column="23" />
         <mark key="." line="98" column="23" />
       </file>
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-gm-list/process-gm-list.component.ts" timestamp="1591352749073">
+        <mark key="[" line="13" column="14" />
+      </file>
       <file name="/" timestamp="1591340542138">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/application-role/application-role.component.html" timestamp="1591352987635" />
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-iga-list/process-iga-list.component.ts" timestamp="1591353431394" />
       <file name="/JavaScript Console" timestamp="1591340535840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591164980955">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/application-role/application-role.component.ts" timestamp="1591352795225" />
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-gm-list/process-gm-list.component.html" timestamp="1591352989740">
+        <mark key="[" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/dashboard.component.html" timestamp="1591351218299">
         <mark key="[" line="10" column="28" />
