@@ -16,11 +16,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroResource.java" timestamp="1591164682733">
-        <mark key="[" line="163" column="20" />
-        <mark key="]" line="46" column="13" />
-        <mark key="." line="46" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1591349170205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -41,11 +36,6 @@
       <file name="/a.dummy" timestamp="1591346415946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ww/ramcontroller/build.gradle" timestamp="1591084667165">
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="35" column="53" />
-        <mark key="." line="35" column="26" />
-      </file>
       <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/event-statistics/src/main/java/io/quarkus/workshop/superheroes/statistics/Score.java" timestamp="1591323227936">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -65,19 +55,24 @@
         <mark key="^" line="96" column="44" />
         <mark key="." line="126" column="54" />
       </file>
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/dashboard-routing.module.ts" timestamp="1591350690761">
+        <mark key="[" line="98" column="23" />
+        <mark key="]" line="98" column="23" />
+        <mark key="." line="98" column="23" />
+      </file>
       <file name="/" timestamp="1591340542138">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ww/ramcontroller/gradle.properties" timestamp="1591084013592">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="0" column="46" />
       </file>
       <file name="/JavaScript Console" timestamp="1591340535840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1591164980955">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/dashboard.component.html" timestamp="1591351218299">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
       </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/service/lmfs/profile-list.ts" timestamp="1591346950525">
         <mark key="'" line="64" column="20" />
@@ -101,38 +96,42 @@
       <register name="0" type="4">
         <text encoding="base64">LXZpbGxhaW48L21vZHVsZT4KICAgICAgICA8bW9kdWxlPnN1cGVyLWhlcm9lcy91aS1zdXBlci1oZXJvZXM8L21vZHVsZQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9uZy10ZW1wbGF0ZT4K</text>
+      <register name="1" type="4">
+        <text>if (event.url.includes('/mg')) {
+          this.title = 'Process GM Requests';
+        } else {
+          this.title = 'Process IGM Requests';
+        }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Improve LMFS page display.</text>
+        <text>[hidden]=&quot;application=='LMFS'&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbbmdUZW1wbGF0ZU91dGxldF09ImxtZnNNZXNzYWdlIiBbbmdUZW1wbGF0ZU91dGxldENvbnRleHRdPSJ7ZGF0YTogcHJvZmlsZX0iPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9uZy10ZW1wbGF0ZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPG5nLXRlbXBsYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbbmdUZW1wbGF0ZU91dGxldF09ImxtZnNNZXNzYWdlIiBbbmdUZW1wbGF0ZU91dGxldENvbnRleHRdPSJ7ZGF0YTogcHJvZmlsZX0iPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPG5nLXRlbXBsYXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gZ2V0TG1mc0FwcHJvdmVSZXF1ZXN0cygKICAgICAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aGVudGljYXRpb24sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gZ2V0TG1mc0FwcHJvdmVSZXF1ZXN0cygKICAgICAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aGVudGljYXRpb24sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYml6UmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxtZnNSZXF1ZXN0U2VydmljZS5nZXRMTUZTUHJvY2Vzc1JlcXVlc3RzKHNpZ25JZCwgcGFnZUxpbWl0KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYml6UmVzcG9uc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gYml6UmVzcG9uc2UgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxtZnNSZXF1ZXN0U2VydmljZS5nZXRMTUZTUHJvY2Vzc1JlcXVlc3RzKHNpZ25JZCwgcGFnZUxpbWl0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Improve LMFS page display.</text>
+        <text>[hidden]=&quot;application=='LMFS'&quot;</text>
       </register>
     </registers>
   </component>
