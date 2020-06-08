@@ -17,10 +17,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ww/danube-test-repo/README.md" timestamp="1591582112412" />
-      <file name="/Dummy.txt" timestamp="1591588835478">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1591588969691">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.ts" timestamp="1591588899076">
         <mark key="[" line="505" column="5" />
@@ -30,7 +30,7 @@
       <file name="/fragment.js" timestamp="1591335663651">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" timestamp="1591343499582">
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" timestamp="1591597155157">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="83" />
         <mark key="]" line="59" column="41" />
@@ -40,12 +40,13 @@
       <file name="/a.dummy" timestamp="1591346415946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/ww/quarkus-workshops/quarkus-workshop-super-heroes/super-heroes/event-statistics/src/main/java/io/quarkus/workshop/superheroes/statistics/Score.java" timestamp="1591323227936">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-iga-list/process-iga-list.component.html" timestamp="1591597158556">
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.html" timestamp="1591585896239">
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.html" timestamp="1591588945962">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="11" column="54" />
         <mark key="^" line="11" column="54" />
@@ -70,6 +71,7 @@
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-gm-list/process-gm-list.component.html" timestamp="1591352989740">
         <mark key="[" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-iga-list/process-iga-list.component.scss" timestamp="1591597025615" />
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/dashboard.component.html" timestamp="1591578687813">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
@@ -98,43 +100,43 @@
         <text encoding="base64">LXZpbGxhaW48L21vZHVsZT4KICAgICAgICA8bW9kdWxlPnN1cGVyLWhlcm9lcy91aS1zdXBlci1oZXJvZXM8L21vZHVsZQ==</text>
       </register>
       <register name="1" type="2">
-        <text>fix: Use lowercase z</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVG90YWwgcmVxdWVzdHM6IHt7cmVxdWVzdENvdW50IHx8IDB9fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ0b3RsZSI+Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>fix: Use lowercase z</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>} else {
       scrollTo(0, 0);
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>if (event.url.includes('/mg')) {
           this.title = 'Process GM Requests';
         } else {
           this.title = 'Process IGM Requests';
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9uZy10ZW1wbGF0ZT4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbbmdUZW1wbGF0ZU91dGxldF09ImxtZnNNZXNzYWdlIiBbbmdUZW1wbGF0ZU91dGxldENvbnRleHRdPSJ7ZGF0YTogcHJvZmlsZX0iPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPG5nLXRlbXBsYXRlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gZ2V0TG1mc0FwcHJvdmVSZXF1ZXN0cygKICAgICAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aGVudGljYXRpb24sCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>mgm</text>
+        <text encoding="base64">YWRkIA==</text>
       </register>
     </registers>
   </component>
