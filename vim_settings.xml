@@ -22,7 +22,11 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.ts" timestamp="1591583887762" />
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.ts" timestamp="1591587089609">
+        <mark key="[" line="544" column="4" />
+        <mark key="]" line="544" column="4" />
+        <mark key="." line="544" column="4" />
+      </file>
       <file name="/fragment.js" timestamp="1591335663651">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,16 +45,16 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.html" timestamp="1591347069385">
-        <mark key="[" line="126" column="53" />
-        <mark key="]" line="126" column="54" />
-        <mark key="^" line="96" column="44" />
-        <mark key="." line="126" column="54" />
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.html" timestamp="1591585896239">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="54" />
+        <mark key="^" line="11" column="54" />
+        <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/dashboard-routing.module.ts" timestamp="1591350690761">
-        <mark key="[" line="98" column="23" />
-        <mark key="]" line="98" column="23" />
-        <mark key="." line="98" column="23" />
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/dashboard-routing.module.ts" timestamp="1591587274648">
+        <mark key="[" line="91" column="20" />
+        <mark key="]" line="91" column="20" />
+        <mark key="." line="91" column="20" />
       </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-gm-list/process-gm-list.component.ts" timestamp="1591352749073">
         <mark key="[" line="13" column="14" />
@@ -62,6 +66,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/application-role/application-role.component.ts" timestamp="1591583181118" />
+      <file name="$USER_HOME$/ww/ramui/ramui/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1591585553649" />
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-gm-list/process-gm-list.component.html" timestamp="1591352989740">
         <mark key="[" line="0" column="25" />
       </file>
@@ -93,41 +98,43 @@
         <text encoding="base64">LXZpbGxhaW48L21vZHVsZT4KICAgICAgICA8bW9kdWxlPnN1cGVyLWhlcm9lcy91aS1zdXBlci1oZXJvZXM8L21vZHVsZQ==</text>
       </register>
       <register name="1" type="4">
+        <text>} else {
+      scrollTo(0, 0);
+    }</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>mgm</text>
+      </register>
+      <register name="2" type="4">
         <text>if (event.url.includes('/mg')) {
           this.title = 'Process GM Requests';
         } else {
           this.title = 'Process IGM Requests';
         }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[hidden]=&quot;application=='LMFS'&quot;</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9uZy10ZW1wbGF0ZT4K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbbmdUZW1wbGF0ZU91dGxldF09ImxtZnNNZXNzYWdlIiBbbmdUZW1wbGF0ZU91dGxldENvbnRleHRdPSJ7ZGF0YTogcHJvZmlsZX0iPgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPG5nLXRlbXBsYXRlCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBCaXpSZXNwb25zZTxMaXN0PFJlcXVlc3RCZWFuPj4gZ2V0TG1mc0FwcHJvdmVSZXF1ZXN0cygKICAgICAgICAgICAgQXV0aGVudGljYXRpb24gYXV0aGVudGljYXRpb24sCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFEOnNyYy9tYWluL2phdmEvY29tL2libS9lc3cvcmFtY29udHJvbGxlci9yZXN0L2xtZnMvUmVxdWVzdENvbnRyb2xsZXIuamF2YQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gYml6UmVzcG9uc2U7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxtZnNSZXF1ZXN0U2VydmljZS5nZXRMTUZTUHJvY2Vzc1JlcXVlc3RzKHNpZ25JZCwgcGFnZUxpbWl0KTsK</text>
-      </register>
       <register name="-" type="4">
-        <text>[hidden]=&quot;application=='LMFS'&quot;</text>
+        <text>mgm</text>
       </register>
     </registers>
   </component>
