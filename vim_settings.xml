@@ -28,9 +28,6 @@
         <mark key="]" line="562" column="4" />
         <mark key="." line="562" column="4" />
       </file>
-      <file name="/fragment.js" timestamp="1591335663651">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" timestamp="1591604965134">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="17" />
@@ -47,6 +44,7 @@
         <mark key="^" line="21" column="36" />
         <mark key="." line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/SwaggerConfiguration.java" timestamp="1591771414831" />
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.html" timestamp="1591588945962">
         <mark key="[" line="6" column="49" />
         <mark key="]" line="6" column="54" />
@@ -56,7 +54,7 @@
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-gm-list/process-gm-list.component.ts" timestamp="1591352749073">
         <mark key="[" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591769518326">
+      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591770907519">
         <mark key="[" line="33" column="29" />
         <mark key="^" line="33" column="8" />
       </file>
