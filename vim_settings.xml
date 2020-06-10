@@ -4,10 +4,13 @@
   </component>
   <component name="VimHistorySettings">
     <history>
+      <history-search />
       <history-cmd>
         <entry>/</entry>
         <entry>?</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -16,10 +19,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591604723543">
+      <file name="/Dummy.txt" timestamp="1591760521968">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.ts" timestamp="1591588899076">
         <mark key="]" line="562" column="4" />
@@ -28,21 +31,21 @@
       <file name="/fragment.js" timestamp="1591335663651">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" timestamp="1591604753717">
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" timestamp="1591604965134">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="59" column="41" />
-        <mark key="." line="59" column="41" />
-        <mark key="^" line="14" column="48" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1591346415946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-iga-list/process-iga-list.component.html" timestamp="1591604742831">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="21" column="70" />
+      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-iga-list/process-iga-list.component.html" timestamp="1591606027402">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="27" />
         <mark key="^" line="21" column="36" />
-        <mark key="." line="21" column="36" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.html" timestamp="1591588945962">
         <mark key="[" line="6" column="49" />
@@ -56,11 +59,26 @@
       <file name="/" timestamp="1591340542138">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ww/shopzapp/RAM_config/WebContent/appXML/ShopzApplication.xml" timestamp="1591760306612">
+        <mark key="[" line="147" column="18" />
+        <mark key="]" line="147" column="40" />
+      </file>
       <file name="/JavaScript Console" timestamp="1591340535840">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ww/shopzapp/RAMInterfaces/JavaSource/com/ibm/ram/ShopzApplicationConstants.java" timestamp="1591760330149">
+        <mark key="[" line="222" column="49" />
+        <mark key="]" line="222" column="45" />
+        <mark key="." line="222" column="45" />
+      </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-gm-list/process-gm-list.component.html" timestamp="1591352989740">
         <mark key="[" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/ww/shopzapp/RAMWebService/src/com/ibm/ram/ws/UserRoleServices.java" timestamp="1591760202704">
+        <mark key="[" line="1143" column="194" />
+        <mark key="]" line="1143" column="195" />
+        <mark key="." line="1143" column="194" />
+        <mark key="^" line="1143" column="195" />
       </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-iga-list/process-iga-list.component.scss" timestamp="1591599520011">
         <mark key="[" line="35" column="14" />
@@ -93,51 +111,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="4">
-        <text>{
-            path: 'gm',
-            component: ProcessGmListComponent,
-            pathMatch: 'prefix',
-            canActivate: [AuthGuard]
-          },
-          {
-            path: 'gm/detail/:id',
-            component: ProcessGmDetailComponent,
-            pathMatch: 'prefix',
-            canActivate: [AuthGuard]
-          },</text>
+        <text>ShopzApplicationConstants.AUTH_IBM_GROUP_ADMINISTRATOR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text>refactor: SHPZ-1761 #comments modify the response code</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>When the total number of requests is less than 10, hide the show all button</text>
+      <register name="&quot;" type="2">
+        <text>refactor: SHPZ-1761 #comments modify the response code</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG90YWwgcmVxdWVzdHM6IHt7cmVxdWVzdENvdW50IHx8IDB9fQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXJkZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVG90YWwgcmVxdWVzdHM6IHt7cmVxdWVzdENvdW50IHx8IDB9fQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXJkZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ0b3RsZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG90YWwgcmVxdWVzdHM6IHt7cmVxdWVzdENvdW50IHx8IDB9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text>fix: Use lowercase z</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ0b3RsZSI+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>When the total number of requests is less than 10, hide the show all button</text>
+        <text>R, igaRoleAndScopes));</text>
       </register>
     </registers>
   </component>

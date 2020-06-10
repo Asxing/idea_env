@@ -1,0 +1,14 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/anchor-js" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/angular" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
