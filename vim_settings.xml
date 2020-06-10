@@ -35,28 +35,22 @@
         <mark key="[" line="147" column="18" />
         <mark key="]" line="147" column="40" />
       </file>
+      <file name="$USER_HOME$/ww/ramcontroller/src/main/resources/config/application-local.properties" timestamp="1591776127157" />
       <file name="$USER_HOME$/ww/shopzapp/RAMInterfaces/JavaSource/com/ibm/ram/ShopzApplicationConstants.java" timestamp="1591760330149">
         <mark key="[" line="222" column="49" />
         <mark key="]" line="222" column="45" />
         <mark key="." line="222" column="45" />
       </file>
+      <file name="$USER_HOME$/ww/ramcontroller/src/main/resources/config/application-dev.properties" timestamp="1591776101222" />
       <file name="$USER_HOME$/ww/zSQO-common-repo/danube-back-end/danube-service-zuul/danube-service-zuul-core-service/src/main/java/com/ibm/danube/service/zuul/config/WebSecurityConfig.java" timestamp="1591774292541">
         <mark key="[" line="55" column="38" />
         <mark key="]" line="55" column="38" />
         <mark key="." line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-gm-list/process-gm-list.component.html" timestamp="1591352989740">
-        <mark key="[" line="0" column="25" />
-      </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-iga-list/process-iga-list.component.scss" timestamp="1591599520011">
         <mark key="[" line="35" column="14" />
         <mark key="]" line="35" column="14" />
         <mark key="." line="35" column="14" />
-      </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/dashboard.component.html" timestamp="1591578687813">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1591774548751">
         <mark key="[" line="0" column="0" />
@@ -74,6 +68,7 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/ww/ramcontroller/src/main/resources/config/application-uat.properties" timestamp="1591776346445" />
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-iga-list/process-iga-list.component.html" timestamp="1591606027402">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="27" />
@@ -84,9 +79,6 @@
         <mark key="]" line="6" column="54" />
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="53" />
-      </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-gm-list/process-gm-list.component.ts" timestamp="1591352749073">
-        <mark key="[" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591775463765">
         <mark key="[" line="33" column="29" />
