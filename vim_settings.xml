@@ -49,9 +49,11 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591856757952">
-        <mark key="[" line="26" column="36" />
-        <mark key="^" line="32" column="8" />
+      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591859544774">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="61" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="19" column="12" />
       </file>
       <file name="$USER_HOME$/ww/zSQO-common-repo/danube-back-end/danube-service-zuul/danube-service-zuul-core-service/src/main/java/com/ibm/danube/service/zuul/swagger/SwaggerDocumentController.java" timestamp="1591774538664">
         <mark key="[" line="28" column="69" />
@@ -113,37 +115,37 @@
         <text>ShopzApplicationConstants.AUTH_IBM_GROUP_ADMINISTRATOR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbGljYXRpb24ubG1mc3NlcnZpY2UudXJsPXgKYXBwbGljYXRpb24uY291bnRyeVNlcnZpY2UuYXV0aC51c2VybmFtZT1mNGM5MjNhNi05MWI4LTRjOWUtYjcwZi0xNWRhMjY3NTdiOWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRob3JpemVSZXF1ZXN0cygpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>add lmfs-service-url for dev env</text>
+        <text>.apply(ramGuardsResourceServerWebSecurityConfig);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L2xzcC9iCg==</text>
+        <text encoding="base64">YXBwbGljYXRpb24ubG1mc3NlcnZpY2UudXJsPXgKYXBwbGljYXRpb24uY291bnRyeVNlcnZpY2UuYXV0aC51c2VybmFtZT1mNGM5MjNhNi05MWI4LTRjOWUtYjcwZi0xNWRhMjY3NTdiOWEK</text>
       </register>
       <register name="3" type="2">
-        <text>refactor: SHPZ-1761 #comments modify the response code</text>
+        <text encoding="base64">L2xzcC9iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text>refactor: SHPZ-1761 #comments modify the response code</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG90YWwgcmVxdWVzdHM6IHt7cmVxdWVzdENvdW50IHx8IDB9fQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG90YWwgcmVxdWVzdHM6IHt7cmVxdWVzdENvdW50IHx8IDB9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXJkZAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXJkZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>add lmfs-service-url for dev env</text>
+        <text>.apply(ramGuardsResourceServerWebSecurityConfig);</text>
       </register>
     </registers>
   </component>
