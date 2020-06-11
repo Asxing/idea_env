@@ -19,10 +19,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591856911187">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1591862287580">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" timestamp="1591604965134">
         <mark key="'" line="12" column="0" />
@@ -110,8 +111,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRob3JpemVSZXF1ZXN0cygpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRob3JpemVSZXF1ZXN0cygpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmlsdGVyIGZldGNoIHVzZXIgcmVjZW50bHkgYXBwIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgKQo=</text>
@@ -138,7 +139,7 @@
         <text encoding="base64">YXBwbGljYXRpb24ubG1mc3NlcnZpY2UudXJsPXgKYXBwbGljYXRpb24uY291bnRyeVNlcnZpY2UuYXV0aC51c2VybmFtZT1mNGM5MjNhNi05MWI4LTRjOWUtYjcwZi0xNWRhMjY3NTdiOWEK</text>
       </register>
       <register name="-" type="4">
-        <text>mvcMatchers(&quot;/service-instances/**&quot;);</text>
+        <text encoding="base64">ZmlsdGVyIGZldGNoIHVzZXIgcmVjZW50bHkgYXBwIA==</text>
       </register>
     </registers>
   </component>
@@ -149,7 +150,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
