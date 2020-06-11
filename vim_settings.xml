@@ -24,10 +24,6 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.ts" timestamp="1591588899076">
-        <mark key="]" line="562" column="4" />
-        <mark key="." line="562" column="4" />
-      </file>
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-list/process-list.component.html" timestamp="1591604965134">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="17" />
@@ -35,6 +31,7 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.ram.guards/ram-guards-resource-server-spring-boot-starter/2.0.3-beta/92f68dab68093ee50d9e5fa926207204158e4817/ram-guards-resource-server-spring-boot-starter-2.0.3-beta.jar!/com/ibm/ram/guards/resourceserver/web/filter/RamGuardsTokenUsernameFilter.class" timestamp="1591860461755" />
       <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/process-iga-list/process-iga-list.component.html" timestamp="1591606027402">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="27" />
@@ -43,17 +40,10 @@
       <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebMvcConfiguration.java" timestamp="1591856853963">
         <mark key="[" line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/ww/ramui/ramui/src/app/components/dashboard/create-request/create-request.component.html" timestamp="1591588945962">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="6" column="54" />
-        <mark key="^" line="6" column="54" />
-        <mark key="." line="6" column="53" />
-      </file>
-      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591859544774">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="19" column="61" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="12" />
+      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591860772067">
+        <mark key="[" line="23" column="65" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/ww/zSQO-common-repo/danube-back-end/danube-service-zuul/danube-service-zuul-core-service/src/main/java/com/ibm/danube/service/zuul/swagger/SwaggerDocumentController.java" timestamp="1591774538664">
         <mark key="[" line="28" column="69" />
@@ -99,6 +89,9 @@
         <mark key="]" line="35" column="14" />
         <mark key="." line="35" column="14" />
       </file>
+      <file name="/fragment.java" timestamp="1591859728676">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="26" column="20" filename="$USER_HOME$/ww/ramui/ramui/src/app/service/lmfs/profile-list.ts" />
@@ -117,35 +110,35 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRob3JpemVSZXF1ZXN0cygpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.apply(ramGuardsResourceServerWebSecurityConfig);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRob3JpemVSZXF1ZXN0cygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbGljYXRpb24ubG1mc3NlcnZpY2UudXJsPXgKYXBwbGljYXRpb24uY291bnRyeVNlcnZpY2UuYXV0aC51c2VybmFtZT1mNGM5MjNhNi05MWI4LTRjOWUtYjcwZi0xNWRhMjY3NTdiOWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">L2xzcC9iCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IC5hbnRNYXRjaGVycygiLyoqIikKICAgICAgICAgICAgICAgIC5wZXJtaXRBbGwo</text>
       </register>
       <register name="4" type="2">
-        <text>refactor: SHPZ-1761 #comments modify the response code</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbmZpZ3VyZShXZWJTZWN1cml0eSB3ZWIpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIHdlYi5pZ25vcmluZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kaXNhYmxlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRob3JpemVSZXF1ZXN0cygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG90YWwgcmVxdWVzdHM6IHt7cmVxdWVzdENvdW50IHx8IDB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVqcnMoIi8qIikucGVybWl0QWxsKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRob3JpemVSZXF1ZXN0cygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXJkZAo=</text>
+        <text encoding="base64">YXBwbGljYXRpb24ubG1mc3NlcnZpY2UudXJsPXgKYXBwbGljYXRpb24uY291bnRyeVNlcnZpY2UuYXV0aC51c2VybmFtZT1mNGM5MjNhNi05MWI4LTRjOWUtYjcwZi0xNWRhMjY3NTdiOWEK</text>
       </register>
       <register name="-" type="4">
-        <text>.apply(ramGuardsResourceServerWebSecurityConfig);</text>
+        <text>mvcMatchers(&quot;/service-instances/**&quot;);</text>
       </register>
     </registers>
   </component>
