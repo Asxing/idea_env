@@ -19,7 +19,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591776392144">
+      <file name="/Dummy.txt" timestamp="1591856911187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -116,7 +116,7 @@
         <text encoding="base64">YXBwbGljYXRpb24ubG1mc3NlcnZpY2UudXJsPXgKYXBwbGljYXRpb24uY291bnRyeVNlcnZpY2UuYXV0aC51c2VybmFtZT1mNGM5MjNhNi05MWI4LTRjOWUtYjcwZi0xNWRhMjY3NTdiOWEK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ignore swagger-ui on spring-security</text>
+        <text>add lmfs-service-url for dev env</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">L2xzcC9iCg==</text>
@@ -143,7 +143,7 @@
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="-" type="4">
-        <text>ignore swagger-ui on spring-security</text>
+        <text>add lmfs-service-url for dev env</text>
       </register>
     </registers>
   </component>
