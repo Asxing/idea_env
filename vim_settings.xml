@@ -40,7 +40,7 @@
       <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebMvcConfiguration.java" timestamp="1591856853963">
         <mark key="[" line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591860772067">
+      <file name="$USER_HOME$/ww/ramcontroller/src/main/java/com/ibm/esw/ramcontroller/config/WebSecurityConfig.java" timestamp="1591860819782">
         <mark key="[" line="23" column="65" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -149,7 +149,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
